@@ -17,8 +17,7 @@ map_script.R
 
 
 ## Map example
-<iframe src="https://relatoceano.org/wp-content/uploads/2020/11/mapa_web.html" frameborder="0" width="100%" height="500px"></iframe>
-
+https://github.com/gonzalobravoargentina/leaflet_map_website/blob/main/map_web.html
 
 ## Red de Educación Latinoamericana para el Océano 
 <img src="https://relatoceano.org/wp-content/uploads/2020/08/LOGO-RELATO-sin-texto.png" width="250" height="100">
