@@ -10,13 +10,15 @@ library(leaflet)
 
 https://leaflet-extras.github.io/leaflet-providers/preview/
 
-## 
+### Code
 
-<iframe src="https://relatoceano.org/wp-content/uploads/2020/11/mapa_web.html" frameborder="0" width="100%" height="500px"></iframe>
+map_script.R
 
-## Map
-![psub_footer](https://github.com/gonzalobravoargentina/SupplementaryMaterials_Bravoet.al.2020/blob/master/Mapa_pardelas_sites.png)
 
-## Funding 
-<img src="https://www.proyectosub.org.ar/wp-content/uploads/2020/10/waitt.png" width="250" height="100">
+
+## Map example
+![psub_footer](https://relatoceano.org/wp-content/uploads/2020/11/mapa_web.html)
+
+## Red de Educación Latinoamericana para el Océano 
+<img src="https://relatoceano.org/wp-content/uploads/2020/08/LOGO-RELATO-sin-texto.png" width="250" height="100">
 
