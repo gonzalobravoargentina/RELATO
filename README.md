@@ -17,7 +17,7 @@ map_script.R
 
 
 ## Map example
-https://github.com/gonzalobravoargentina/leaflet_map_website/blob/main/map_web.html
+http://htmlpreview.github.io/?https://github.com/gonzalobravoargentina/leaflet_map_website/blob/main/map_web.html
 
 ## Red de Educación Latinoamericana para el Océano 
 <img src="https://relatoceano.org/wp-content/uploads/2020/08/LOGO-RELATO-sin-texto.png" width="250" height="100">
