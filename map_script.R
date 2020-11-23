@@ -1,7 +1,7 @@
 #Create leaflet map for wordpress web site 
 
 #Read data for map
-RELATO_participants <- read.csv("RELATO_intituciones.csv")
+RELATO_participants <- read.csv("RELATO_ARG - Instituciones_mapa.csv")
 
 
 library(leaflet)
@@ -28,7 +28,7 @@ mapout <- leaflet(RELATO_participants) %>%
                      , "' target='_blank'>"
                      , "Sitio Web</a>"
                    )) %>% 
-  setView(lat =-25.533291, lng =-60.316388, zoom = 2.5)
+  setView(lat =-25.533291, lng =-60.316388, zoom = 2)
 
 
 
