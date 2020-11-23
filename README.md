@@ -15,9 +15,8 @@ https://leaflet-extras.github.io/leaflet-providers/preview/
 map_script.R
 
 
-
 ## Map example
-<iframe src="https://relatoceano.org/wp-content/uploads/2020/11/mapa_web.html" frameborder="0" width="100%" height="500px"></iframe>
+https://relatoceano.org/nosotros/
 
 
 ## Red de Educación Latinoamericana para el Océano 
