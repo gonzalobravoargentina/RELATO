@@ -1,28 +1,28 @@
-Institución,Latitude,Longitude,url,País
-Administración de Parques Nacionales,-44.79850,-65.71033,https://www.argentina.gob.ar/parquesnacionales,Agentina
-Fundación ProyectoSub,-42.76207,-65.03503,https://www.proyectosub.org.ar/,Agentina
-Instituto de Conservacion de Ballenas,-42.58487,-64.28865,https://ballenas.org.ar/,Agentina
-Argentina Submarina,-54.80191,-68.30295,https://www.instagram.com/argentinasubmarina/,Agentina
-Propósito Azul,-34.51955,-58.47714,https://www.instagram.com/propositoazul/,Agentina
-Proyecto Arrecife,-42.89593796,-64.58489449,https://www.instagram.com/proyectoarrecife/,Agentina
-Museo Katsuo,31.86546821,-116.6620797,https://www.instagram.com/museokatsuo/,México
-Manta México Caribe AC,21.23287531,-86.73405489,https://www.mantacaribbeanproject.org/volunteer,México
-Fundación Contamos Contigo Ecuador,-0.870222,-80.540278,https://fundacion.contamoscontigoecuador.org/,Ecuador
-Fundación Amiguitos del Océano,-2.162944,-79.946611,https://amiguitosdeloceano.com/,Ecuador
-Blue Wave EC,-2.206069712,-80.87349892,https://bluewave-ec.com/,Ecuador
-Naveducando,-0.747611,-90.313389,https://www.instagram.com/naveducando/?hl=es-la,Ecuador
-Científicos de la Basura,-29.96554214,-71.35237524,https://www.instagram.com/cientificos_delabasura/,Chile
-Surgencia ONG,-29.97555556,-71.34630556,https://surgenciaong.org,Chile
-Expedición Batiscafo,-32.955092,-71.547125,https://www.instagram.com/expedicion_batiscafo/,Chile
-Fundación Mar y Ciencia,-32.95681873,-71.54998264,http://maryciencia.org/,Chile
-Academia de Exploradores Marinos,-33.49854718,-71.62866541,https://www.instagram.com/exploradores.marinos/,Chile
-Océanos Prehistóricos,-36.604096,-72.95932,https://www.instagram.com/oceanos_prehistoricos/,Chile
-Soplo a la Vista,-36.66666667,-73.25,https://www.instagram.com/soploalavista/,Chile
-Ermitaño,-36.71613441,-73.10899216,https://www.instagram.com/ermitanocl/,Chile
-Océanos to Oceans,-36.71971784,-73.10873168,https://www.instagram.com/oceanostoceans/,Chile
-COPAS Sur-Austral,-36.8277847,-73.0339572,http://www.sur-austral.cl/,Chile
-Algalab,-36.82899157,-73.03463867,https://www.algalab.com,Chile
-Fundación Oceanósfera,-39.77960639,-73.39224109,https://www.oceanosfera.cl/,Chile
-Jugando con la Naturaleza,-29.87198984,-71.24197855,https://www.facebook.com/Jugando-con-la-naturaleza-116003835776215,Chile
-Sustainable Ocean Alliance - Capítulo Chile,-33.35660112,-70.72967438,https://www.instagram.com/soa_chile/,Chile
-Centinelas del Océano,-33.63680005,-78.83129588,https://www.instagram.com/centinelas_del_oceano/,Chile
+Institución,Latitude,Longitude,url,País,tipo de Institución
+Administración de Parques Nacionales,-44.7985,-65.71033,https://www.argentina.gob.ar/parquesnacionales,Agentina,Gubernamental
+Fundación ProyectoSub,-42.76207,-65.03503,https://www.proyectosub.org.ar/,Agentina,ONG
+Instituto de Conservacion de Ballenas,-42.58487,-64.28865,https://ballenas.org.ar/,Agentina,ONG
+Argentina Submarina,-54.80191,-68.30295,https://www.instagram.com/argentinasubmarina/,Agentina,Agrupacion
+Propósito Azul,-34.51955,-58.47714,https://www.instagram.com/propositoazul/,Agentina,Agrupacion
+Proyecto Arrecife,-42.89593796,-64.58489449,https://www.instagram.com/proyectoarrecife/,Agentina,Agrupacion
+Museo Katsuo,31.86546821,-116.6620797,https://www.instagram.com/museokatsuo/,México,Agrupacion
+Manta México Caribe AC,21.23287531,-86.73405489,https://www.mantacaribbeanproject.org/volunteer,México,ONG
+Fundación Contamos Contigo Ecuador,-0.870222,-80.540278,https://fundacion.contamoscontigoecuador.org/,Ecuador,ONG
+Fundación Amiguitos del Océano,-2.162944,-79.946611,https://amiguitosdeloceano.com/,Ecuador,ONG
+Blue Wave EC,-2.206069712,-80.87349892,https://bluewave-ec.com/,Ecuador,ONG
+Naveducando,-0.747611,-90.313389,https://www.instagram.com/naveducando/?hl=es-la,Ecuador,ONG
+Científicos de la Basura,-29.96554214,-71.35237524,https://www.instagram.com/cientificos_delabasura/,Chile,ONG
+Surgencia ONG,-29.97555556,-71.34630556,https://surgenciaong.org,Chile,ONG
+Expedición Batiscafo,-32.955092,-71.547125,https://www.instagram.com/expedicion_batiscafo/,Chile,ONG
+Fundación Mar y Ciencia,-32.95681873,-71.54998264,http://maryciencia.org/,Chile,ONG
+Academia de Exploradores Marinos,-33.49854718,-71.62866541,https://www.instagram.com/exploradores.marinos/,Chile,ONG
+Océanos Prehistóricos,-36.604096,-72.95932,https://www.instagram.com/oceanos_prehistoricos/,Chile,ONG
+Soplo a la Vista,-36.66666667,-73.25,https://www.instagram.com/soploalavista/,Chile,ONG
+Ermitaño,-36.71613441,-73.10899216,https://www.instagram.com/ermitanocl/,Chile,ONG
+Océanos to Oceans,-36.71971784,-73.10873168,https://www.instagram.com/oceanostoceans/,Chile,ONG
+COPAS Sur-Austral,-36.8277847,-73.0339572,http://www.sur-austral.cl/,Chile,Agrupacion
+Algalab,-36.82899157,-73.03463867,https://www.algalab.com,Chile,Agrupacion
+Fundación Oceanósfera,-39.77960639,-73.39224109,https://www.oceanosfera.cl/,Chile,ONG
+Jugando con la Naturaleza,-29.87198984,-71.24197855,https://www.facebook.com/Jugando-con-la-naturaleza-116003835776215,Chile,ONG
+Sustainable Ocean Alliance - Capítulo Chile,-33.35660112,-70.72967438,https://www.instagram.com/soa_chile/,Chile,ONG
+Centinelas del Océano,-33.63680005,-78.83129588,https://www.instagram.com/centinelas_del_oceano/,Chile,ONG
